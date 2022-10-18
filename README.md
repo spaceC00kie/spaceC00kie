@@ -11,7 +11,7 @@ I'm smart, sweet, and neat.
 My Projects: 
 - [Keep My Plants Alive](https://github.com/spaceC00kie/keep-my-plants-alive)
 - [Task Tracker](https://github.com/spaceC00kie/task-tracker)
-- [React Chuck Norris Joke API](https://github.com/spaceC00kie/react-joke-api)
+- [Kitty Literature API](https://github.com/spaceC00kie/kitty-literature-api)
 
 Contributed To:
 - [ChessWager](https://github.com/geektechniquestudios/ChessWager)
