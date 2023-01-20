@@ -10,8 +10,8 @@ Here are some of the projects I have worked on:
 - [Kitty Literature API](https://github.com/spaceC00kie/kitty-literature-api): A minimal React app that displays a cat fact on a webpage
 
 I have also contributed to the following projects:
-- [ChessWager](https://github.com/geektechniquestudios/ChessWager): A betting platform that uses smart contracts to securely facilitate betting on professional chess matches played on LichessTV
-- [Frozr](https://github.com/geektechniquestudios/Frozr): A web service that allows users to securely store their cryptocurrency in a smart contract time vault
+- [ChessWager](https://github.com/geektechniquestudios/ChessWager): A betting platform that uses smart contracts to securely facilitate betting on professional chess matches played on LichessTV. I was responsible for the development of the dropdown feature, which involved porting it from JavaScript to TypeScript and incorporating animations. My inspiration came from the popular YouTube coder Fireship, but I made several unique changes to the code to enhance the user experience.
+- [Frozr](https://github.com/geektechniquestudios/Frozr): A web service that allows users to securely store their cryptocurrency in a smart contract time vault. I created a React app using Yarn, Vite, TypeScript, and TailwindCSS, which was then used as a starting point for the development of this separate project.
 
 *"Strive not to be a success, but rather to be of value."* - Albert Einstein
 
