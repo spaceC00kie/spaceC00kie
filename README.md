@@ -2,7 +2,7 @@
 
 As a front-end developer, I have a strong passion for creating intuitive and visually appealing user experiences. My skills include working with JavaScript, TypeScript, React, Tailwind CSS, and Python, and I am always eager to learn and expand my skillset further.
 
-Currently based in Peachtree City, Georgia, I am seeking opportunities to make an impact as a developer. I am a strong communicator and pride myself on my ability to work collaboratively on projects.
+Currently based in Atlanta, Georgia, I am seeking opportunities to make an impact as a developer. I am a strong communicator and pride myself on my ability to work collaboratively on projects.
 
 Here are some of the projects I have worked on: 
 - [KibbleCheck](https://github.com/spaceC00kie/has-the-dog-been-fed): A pwa with a custom rolodex component for keeping track of pet feedings, deployed on [KibbleCheck.com](https://kibblecheck.com/)
