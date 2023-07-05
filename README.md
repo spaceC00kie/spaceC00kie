@@ -7,9 +7,9 @@ In addition to interacting comfortably with REST APIs, I use Postman for testing
 Currently based in Atlanta, Georgia, I am seeking opportunities to make an impact as a developer. As a strong communicator, I pride myself on my ability to work collaboratively on projects.
 
 Here are some of the projects I have worked on: 
-- [KibbleCheck](https://github.com/spaceC00kie/has-the-dog-been-fed): A pwa with a custom rolodex component for keeping track of pet feedings, deployed on [KibbleCheck.com](https://kibblecheck.com/)
-- [Keep My Plants Alive](https://github.com/spaceC00kie/keep-my-plants-alive): A full-stack system that makes it easy to monitor soil moisture levels in your indoor plants
-- [Task Tracker](https://github.com/spaceC00kie/task-tracker): A to-do list and reminder software that allows users to manage their tasks and set reminders for them
+- [KibbleCheck](https://github.com/spaceC00kie/has-the-dog-been-fed): A PWA with a custom rolodex component for keeping track of pet feedings, deployed on [KibbleCheck.com](https://kibblecheck.com/)
+- [Keep My Plants Alive](https://github.com/spaceC00kie/keep-my-plants-alive): A full-stack system that makes it easy to monitor soil moisture levels for your indoor plants
+- [Task Tracker](https://github.com/spaceC00kie/task-tracker): A to-do list and reminder software that allows users to manage their tasks and schedule reminders
 
 I have also contributed to the following projects:
 - [ChessWager](https://github.com/geektechniquestudios/ChessWager): A betting platform that uses smart contracts to securely facilitate betting on professional chess matches played on LichessTV. Transitioning the project from vanilla CSS to Tailwind CSS was one of my key roles. I was also responsible for the development of the dropdown feature, which involved porting it from JavaScript to TypeScript and incorporating animations. Inspiration for the dropdown component came from the popular YouTube coder Fireship, but I made several unique changes to the code to enhance the user experience.
